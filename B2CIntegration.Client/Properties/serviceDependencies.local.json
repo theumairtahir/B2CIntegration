@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "identityapp1": {
+      "connectionInfo": "App registration: B2CInt.Client, Tenant: Dointo (dointodev.onmicrosoft.com - AAD B2C)",
+      "secretStore": null,
+      "type": "identityapp.secretStore",
+      "connectionId": "AzureAD:ClientSecret"
+    }
+  }
+}

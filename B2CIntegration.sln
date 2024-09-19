@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B2CIntegration.Client", "B2CIntegration.Client\B2CIntegration.Client.csproj", "{10D491C4-2484-48F8-A01B-31FD2164A60A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B2CIntegration.Server", "B2CIntegration.Server\B2CIntegration.Server.csproj", "{02B0C6EF-BE5F-469A-9A5F-62A02D76234C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10D491C4-2484-48F8-A01B-31FD2164A60A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10D491C4-2484-48F8-A01B-31FD2164A60A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10D491C4-2484-48F8-A01B-31FD2164A60A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10D491C4-2484-48F8-A01B-31FD2164A60A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02B0C6EF-BE5F-469A-9A5F-62A02D76234C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02B0C6EF-BE5F-469A-9A5F-62A02D76234C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02B0C6EF-BE5F-469A-9A5F-62A02D76234C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02B0C6EF-BE5F-469A-9A5F-62A02D76234C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0683F51-3136-4588-B6E9-BA2A11AC0857}
+	EndGlobalSection
+EndGlobal
